@@ -1,0 +1,7 @@
+1. data class
+2. sealed class
+3. generics
+4. kotlin test
+5. gradle basics
+6. kapt
+7. collections
